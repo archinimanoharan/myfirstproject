@@ -1,0 +1,37 @@
+.last{
+    height:500px;
+    width:900px;
+    color:black;
+    margin-top:150px;
+    margin-left:-20%;
+    
+  
+}
+.last h1{
+    font-size: xx-large;
+    margin-left:-2px;
+   
+    
+}
+.last p{
+    margin-left:2px;
+    margin-top:20px;
+    margin-bottom:30px;
+    font-size: medium;
+}
+
+.submit{
+    border:1px solid rgb(76, 90, 90);
+    background-color: rgb(76, 90, 90);
+    color:white;
+    padding:10px;
+    width:100px;
+    opacity:1;
+}
+.submit:hover{
+    opacity:0.5;
+}
+
+.cont{
+    background-color: burlywood;
+}
